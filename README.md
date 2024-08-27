@@ -35,6 +35,22 @@ If you have any questions or suggestions, feel free to open issues.
 
 Now it's time to put your math skills to the test and enjoy learning through gameplay! Good luck!
 
+## Screenshots
+
+<img src="polynomial-bingo.jpg" alt="Game view">
+
+<img src="polynomial-bingo-2.jpg" alt="Game view">
+
+<img src="polynomial-bingo-3.jpg" alt="Game view">
+
+<img src="polynomial-bingo-4.jpg" alt="Game view">
+
+<img src="polynomial-bingo-5.jpg" alt="Game view">
+
+<img src="polynomial-bingo-6.jpg" alt="Game view">
+
+<img src="polynomial-bingo-7.jpg" alt="Game view">
+
 ## Also available for Android devices
 
 <a href="https://play.google.com/store/apps/details?id=com.vehave.polynomial_bingo_math_game" target="_blank"><img src="PlayStore.jpg" alt="Get it on Google Play"></a>
