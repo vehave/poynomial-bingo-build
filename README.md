@@ -37,17 +37,17 @@ Now it's time to put your math skills to the test and enjoy learning through gam
 
 ## Screenshots
 
-<img src="polynomial-bingo.jpg" alt="Game view">
+<img src="polynomial-bingo.png" alt="Game view">
 
-<img src="polynomial-bingo-2.jpg" alt="Game view">
+<img src="polynomial-bingo-2.png" alt="Game view">
 
-<img src="polynomial-bingo-3.jpg" alt="Game view">
+<img src="polynomial-bingo-3.png" alt="Game view">
 
-<img src="polynomial-bingo-4.jpg" alt="Game view">
+<img src="polynomial-bingo-4.png" alt="Game view">
 
-<img src="polynomial-bingo-5.jpg" alt="Game view">
+<img src="polynomial-bingo-5.png" alt="Game view">
 
-<img src="polynomial-bingo-6.jpg" alt="Game view">
+<img src="polynomial-bingo-6.png" alt="Game view">
 
 ## Also available for Android devices
 
